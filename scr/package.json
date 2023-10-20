@@ -1,0 +1,17 @@
+{
+  "name": "backend-coder",
+  "version": "1.0.0",
+  "description": "Curso BackEnd",
+  "main": "serverExpress.js",
+  "type": "module",
+  "scripts": {
+    "dev:backjs": "node --watch backjs.js",
+    "dev:express": "node --watch ."
+  },
+  "author": "ByPipi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}

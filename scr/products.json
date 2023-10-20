@@ -1,0 +1,92 @@
+[
+  {
+    "title": "TV",
+    "description": "LED TV",
+    "price": 200,
+    "img": "img",
+    "code": "Ab208",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "title": "iPhone",
+    "description": "15pro",
+    "price": 2100,
+    "img": "img",
+    "code": "Ab209",
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "PC",
+    "description": "Pc Intel pro",
+    "price": 1200,
+    "img": "img",
+    "code": "Ab210",
+    "stock": 20,
+    "id": 3
+  },
+  {
+    "title": "Tablet",
+    "description": "Tablet 12\" noblex",
+    "price": 2100,
+    "img": "img",
+    "code": "Ab211",
+    "stock": 20,
+    "id": 4
+  },
+  {
+    "title": "Placa de video",
+    "description": "Nvidia RTX",
+    "price": 2500,
+    "img": "img",
+    "code": "Ab212",
+    "stock": 20,
+    "id": 5
+  },
+  {
+    "title": "Tv led",
+    "description": "32\" Max",
+    "price": 1300,
+    "img": "img",
+    "code": "Ab213",
+    "stock": 20,
+    "id": 6
+  },
+  {
+    "title": "Samsung Galaxi",
+    "description": "23 ultra",
+    "price": 1600,
+    "img": "img",
+    "code": "Ab214",
+    "stock": 20,
+    "id": 7
+  },
+  {
+    "title": "NoteBook Lenovo",
+    "description": "Lengion 4",
+    "price": 6500,
+    "img": "img",
+    "code": "Ab215",
+    "stock": 20,
+    "id": 8
+  },
+  {
+    "title": "Mac 14",
+    "description": "Simple",
+    "price": 100,
+    "img": "img",
+    "code": "Ab216",
+    "stock": 20,
+    "id": 9
+  },
+  {
+    "title": "Mouse Gamer",
+    "description": "Dragons 3",
+    "price": 1500,
+    "img": "img",
+    "code": "Ab217",
+    "stock": 20,
+    "id": 10
+  }
+]
