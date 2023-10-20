@@ -28,7 +28,7 @@ fs.readFile('./products.json', 'utf8', (error, data) => {
 //     res.json(listProducts); // Devolvemos la lista completa de productos
 // });
 
-// Ruta para obtener productos con límite
+//endpoints para obtener la cantidad de productos con límite
 app.get('/products', (req, res) => {
     const { limit } = req.query;
 
