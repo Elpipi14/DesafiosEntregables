@@ -48,7 +48,7 @@ app.get('/products/:id', (req, res) => {
     if (!product) {
         res.status(404).send("No encontrado");
     } else {
-        res.status(400).json(product);
+        res.status(200).json(product);
     }
 });
 
