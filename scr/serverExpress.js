@@ -28,7 +28,7 @@ fs.readFile('./products.json', 'utf8', (error, data) => {
 //     res.json(listProducts); // Devolvemos la lista completa de productos
 // });
 
-//endpoints para obtener la cantidad de productos con query
+//endpoints para obtener la cantidad de productos con query // http://localhost:8080/products?limit=6
 app.get('/products', (req, res) => {
     const { limit } = req.query;
 
@@ -41,7 +41,7 @@ app.get('/products', (req, res) => {
 });
 
 
-// Bucar por id de productos con parms
+// Bucar por id de productos con parms // http://localhost:8080/products/3
 app.get('/products/:id', (req, res) => {
     const { id } = req.params;
     const product = listProducts.find(p => p.id === Number(id));
